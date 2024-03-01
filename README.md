@@ -40,7 +40,7 @@ Contributions to this project are welcome! If you have any ideas for improvement
  This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
